@@ -1,0 +1,51 @@
+# Virtual environments
+venv/
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Credentials
+data.kaggle/kaggle.json
+
+# Large model files
+src/models/*.h5
+src/models/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data (if large)
+data/raw/*
+data/processed/*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea//
+env/
+
+# Credentials
+data.kaggle/kaggle.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data 
+data/raw/*
+data/processed/*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/

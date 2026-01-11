@@ -1,0 +1,38 @@
+{
+  "category_to_id": {
+    "Accessories": 0,
+    "Apparel": 1,
+    "Footwear": 2
+  },
+  "id_to_category": {
+    "0": "Accessories",
+    "1": "Apparel",
+    "2": "Footwear"
+  },
+  "color_to_id": {
+    "Black": 0,
+    "Blue": 1,
+    "Brown": 2,
+    "Green": 3,
+    "Grey": 4,
+    "Navy Blue": 5,
+    "Pink": 6,
+    "Purple": 7,
+    "Red": 8,
+    "White": 9
+  },
+  "id_to_color": {
+    "0": "Black",
+    "1": "Blue",
+    "2": "Brown",
+    "3": "Green",
+    "4": "Grey",
+    "5": "Navy Blue",
+    "6": "Pink",
+    "7": "Purple",
+    "8": "Red",
+    "9": "White"
+  },
+  "num_categories": 3,
+  "num_colors": 10
+}
