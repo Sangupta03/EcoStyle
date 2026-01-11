@@ -8,9 +8,7 @@ env/
 # Credentials
 data.kaggle/kaggle.json
 
-# Large model files
-src/models/*.h5
-src/models/*.pkl
+
 
 # Python cache
 __pycache__/
